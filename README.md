@@ -13,7 +13,7 @@
 - 🌱 Me encanta explorar nuevas tecnologías y resolver problemas con código.
 - 👨‍💻 Todos mis proyectos los podrás encontrar aquí, en mi perfil.
 - 💬 Pregúntame sobre: *(agrega aquí tus temas favoritos, ej. JavaScript, Python, Java...)*
-- 📫 ¿Cómo contactarme?: *(agrega tu correo o red social)*
+- 📫 ¿Cómo contactarme?: *manuel.vp.official@gmail.com*
 - ⚡ Dato curioso: *(agrega algo divertido sobre ti)*
 
 ---
@@ -38,15 +38,15 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="Estadísticas de GitHub" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical" alt="Racha de GitHub" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Manuel-Antonio1&show_icons=true&theme=radical" alt="Estadísticas de GitHub" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manuel-Antonio1&theme=radical" alt="Racha de GitHub" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" alt="Lenguajes más usados" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuel-Antonio1&layout=compact&theme=radical" alt="Lenguajes más usados" width="60%"/>
 </p>
 
-> ⚠️ *Reemplaza `TU_USUARIO` por tu nombre de usuario real de GitHub para que las estadísticas funcionen.*
+
 
 ---
 
@@ -56,7 +56,7 @@
   <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tucorreo@ejemplo.com">
+  <a href="mailto:manuel.vp.official@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/TU_USUARIO" target="_blank">
