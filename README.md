@@ -12,9 +12,8 @@
 - 🔭 Actualmente estoy aprendiendo y mejorando mis habilidades como desarrollador.
 - 🌱 Me encanta explorar nuevas tecnologías y resolver problemas con código.
 - 👨‍💻 Todos mis proyectos los podrás encontrar aquí, en mi perfil.
-- 💬 Pregúntame sobre: *(agrega aquí tus temas favoritos, ej. JavaScript, Python, Java...)*
-- 📫 ¿Cómo contactarme?: *(agrega tu correo o red social)*
-- ⚡ Dato curioso: *(agrega algo divertido sobre ti)*
+- 📫 ¿Cómo contactarme?: *manuel.vp.official@gmail.com*
+
 
 ---
 
@@ -31,7 +30,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-> 💡 *Tip: borra los badges de las tecnologías que no uses y agrega las tuyas en [shields.io](https://shields.io/)*
+
 
 ---
 
@@ -46,17 +45,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuel-Antonio1&layout=compact&theme=radical" alt="Lenguajes más usados" width="60%"/>
 </p>
 
-> ⚠️ *Reemplaza `Manuel-Antonio1` por tu nombre de usuario real de GitHub para que las estadísticas funcionen.*
+
 
 ---
 
 ### 🌐 Conecta conmigo
 
 <p align="left">
-  <a href="https://linkedin.com/in/Manuel-Antonio1" target="_blank">
+  <a href="www.linkedin.com/in/manuel-vargas-pérez-66a80435a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tucorreo@ejemplo.com">
+  <a href="mailto:manuel.vp.official@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/Manuel-Antonio1" target="_blank">
