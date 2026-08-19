@@ -33,10 +33,13 @@
 
 ### 📊 Mis Objetivos y Estado
 
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+<p align="center">
+  <img src="https://vercel.app" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://herokuapp.com" alt="Racha de GitHub" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://vercel.app" alt="Lenguajes más usados" width="60%" />
 </p>
 
 #### 📈 Áreas de Enfoque Actual
