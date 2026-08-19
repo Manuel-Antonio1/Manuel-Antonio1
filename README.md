@@ -39,7 +39,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Manuel-Antonio1&show_icons=true&theme=radical" alt="Estadísticas de GitHub" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manuel-Antonio1&theme=radical" alt="Racha de GitHub" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=Manuel-Antonio1&theme=radical" alt="Racha de GitHub" width="48%"/>
 </p>
 
 <p align="center">
