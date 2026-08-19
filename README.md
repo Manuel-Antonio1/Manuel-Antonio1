@@ -14,7 +14,6 @@
 - 👨‍💻 Todos mis proyectos los podrás encontrar aquí, en mi perfil.
 - 📫 ¿Cómo contactarme?: *manuel.vp.official@gmail.com*
 
-
 ---
 
 ### 🛠️ Tecnologías y Herramientas
@@ -30,31 +29,27 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-
-
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Mis Objetivos y Estado
 
-
-<p align="center">
-  <img src="https://vercel.app" alt="Trofeos de GitHub" width="100%" />
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </p>
 
-<p align="center">
-  <img src="https://vercel.app" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://vercel.app" alt="Lenguajes más usados" width="48%" />
-</p>
-
-
-
+#### 📈 Áreas de Enfoque Actual
+- 💻 **Desarrollo Web Frontend** (HTML5, CSS3, JavaScript)
+- 🐍 **Lógica y Automatización** (Python, Java)
+- 🗂️ **Control de Versiones** (Git y GitHub)
 
 ---
 
 ### 🌐 Conecta conmigo
 
 <p align="left">
-  <a href="www.linkedin.com/in/manuel-vargas-pérez-66a80435a" target="_blank">
+  <a href="https://linkedin.com" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:manuel.vp.official@gmail.com">
