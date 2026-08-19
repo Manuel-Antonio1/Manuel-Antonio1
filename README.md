@@ -34,12 +34,8 @@
 ### 📊 Mis Objetivos y Estado
 
 <p align="center">
-  <img src="https://vercel.app" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://herokuapp.com" alt="Racha de GitHub" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://vercel.app" alt="Lenguajes más usados" width="60%" />
+  <img src="https://vercel.app" alt="Estadísticas de Manuel" width="48%" />
+  <img src="https://vercel.app" alt="Lenguajes de Manuel" width="48%" />
 </p>
 
 #### 📈 Áreas de Enfoque Actual
