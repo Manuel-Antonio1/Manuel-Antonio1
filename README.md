@@ -36,7 +36,7 @@
 
 ### 📊 Estadísticas de GitHub
 
-p align="center">
+<p align="center">
   <img src="https://vercel.app" alt="Estadísticas de GitHub" width="48%" />
   <img src="https://demolab.com" alt="Racha de GitHub" width="48%" />
 </p>
