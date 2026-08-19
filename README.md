@@ -31,7 +31,7 @@
 
 ---
 
-### 📊 Mis Objetivos y Estado
+### 📊 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://vercel.app" alt="Estadísticas de Manuel" width="48%" />
@@ -68,3 +68,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Manuel-Antonio1&label=Visitas%20al%20perfil&color=blueviolet&style=flat" alt="Contador de visitas" />
 </p>
+
