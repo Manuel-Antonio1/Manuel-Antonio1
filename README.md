@@ -13,7 +13,7 @@
 - 🌱 Me encanta explorar nuevas tecnologías y resolver problemas con código.
 - 👨‍💻 Todos mis proyectos los podrás encontrar aquí, en mi perfil.
 - 💬 Pregúntame sobre: *(agrega aquí tus temas favoritos, ej. JavaScript, Python, Java...)*
-- 📫 ¿Cómo contactarme?: *manuel.vp.official@gmail.com*
+- 📫 ¿Cómo contactarme?: *(agrega tu correo o red social)*
 - ⚡ Dato curioso: *(agrega algo divertido sobre ti)*
 
 ---
@@ -46,20 +46,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuel-Antonio1&layout=compact&theme=radical" alt="Lenguajes más usados" width="60%"/>
 </p>
 
-
+> ⚠️ *Reemplaza `Manuel-Antonio1` por tu nombre de usuario real de GitHub para que las estadísticas funcionen.*
 
 ---
 
 ### 🌐 Conecta conmigo
 
 <p align="left">
-  <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
+  <a href="https://linkedin.com/in/Manuel-Antonio1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:manuel.vp.official@gmail.com">
+  <a href="mailto:tucorreo@ejemplo.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/TU_USUARIO" target="_blank">
+  <a href="https://instagram.com/Manuel-Antonio1" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -71,5 +71,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas%20al%20perfil&color=blueviolet&style=flat" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=Manuel-Antonio1&label=Visitas%20al%20perfil&color=blueviolet&style=flat" alt="Contador de visitas" />
 </p>
