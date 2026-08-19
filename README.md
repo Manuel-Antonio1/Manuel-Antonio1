@@ -36,14 +36,15 @@
 
 ### 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manuel-Antonio1&show_icons=true&theme=radical" alt="Estadísticas de GitHub" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=Manuel-Antonio1&theme=radical" alt="Racha de GitHub" width="48%"/>
+p align="center">
+  <img src="https://vercel.app" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://demolab.com" alt="Racha de GitHub" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuel-Antonio1&layout=compact&theme=radical" alt="Lenguajes más usados" width="60%"/>
+  <img src="https://vercel.app" alt="Lenguajes más usados" width="60%" />
 </p>
+
 
 
 
